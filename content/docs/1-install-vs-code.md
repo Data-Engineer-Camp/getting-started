@@ -16,3 +16,4 @@ You have successfully downloaded VS Code when you see a window that looks like t
 
 ![vs-code](/vs-code.png)
 ![vs-code](./images/vs-code.png)
+![vs-code](images/vs-code.png)
