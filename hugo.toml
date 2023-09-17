@@ -23,3 +23,5 @@ enableGitInfo = true
   # BookLogo = 'logo.png'
   BookMenuBundle = '/menu'
   BookSection = 'docs'
+  BookRepo = 'https://github.com/Data-Engineer-Camp/getting-started'
+

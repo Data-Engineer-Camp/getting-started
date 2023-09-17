@@ -20,7 +20,7 @@ The next few activities will take you through setting up.
 
 | Activity No. | Activity | 
 | - | - | 
-| 01 | [Install VS Code](/docs/1-install-vs-code) | 
+| 01 | [Install VS Code](./docs/1-install-vs-code) | 
 | 02 | [Install Anaconda distribution](./2-install-anaconda-distribution/) | 
 | 03 | [Install PostgreSQL](./3-install-postgresql/) | 
 | 04 | [Install git](./4-install-git/) | 
