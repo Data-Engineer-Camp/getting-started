@@ -16,4 +16,4 @@ You have successfully downloaded VS Code when you see a window that looks like t
 
 ![vs-code](https://github.com/Data-Engineer-Camp/getting-started/blob/main/static/vs-code.png?raw=true)
 
-{{< button relref="/" >}}Next &raquo;{{< /button >}}
+{{< button relref="/docs/2-install-anaconda-distribution" >}}Next &raquo;{{< /button >}}

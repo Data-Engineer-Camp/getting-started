@@ -27,3 +27,5 @@ When promoted for a port number, please provide `5432` as the port number. This 
 When installed successfully, you should be able to find `pgAdmin 4` in your applications. 
 
 ![postgres-success.png](https://github.com/Data-Engineer-Camp/getting-started/blob/main/static/postgres-success.png?raw=true)
+
+{{< button relref="/docs/2-install-anaconda-distribution" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/4-install-git" >}}Next &raquo;{{< /button >}}

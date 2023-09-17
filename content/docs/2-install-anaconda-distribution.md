@@ -26,3 +26,4 @@ To verify that you have installed Anaconda successfully, you can either:
 1. Go to your applications or programs and verify that "Anaconda Navigator" appears, or 
 2. You can go to command prompt or terminal and type `conda --version` and you should see `conda 4.12.0` or similar (version numbers may change). If you get an error here, that is likely because Anaconda was not added to your PATH environment variable yet. We will configure this later in the bootcamp.  
 
+{{< button relref="/docs/1-install-vs-code" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/3-install-postgresql" >}}Next &raquo;{{< /button >}}
