@@ -2,3 +2,11 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Data Engineer Camp'
 theme = "hugo-book"
+
+[params]
+  BookTheme = 'light'
+  BookToC = true
+  # BookFavicon = 'favicon.png'
+  # BookLogo = 'logo.png'
+  # BookMenuBundle = '/menu'
+  BookSection = 'docs'
