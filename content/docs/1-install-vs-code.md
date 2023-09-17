@@ -14,7 +14,6 @@ Download the version that matches your Operating System (Windows, MacOS Intel Ch
 
 You have successfully downloaded VS Code when you see a window that looks like this: 
 
-![vs-code](/vs-code.png)
-![vs-code](./images/vs-code.png)
-![vs-code](images/vs-code.png)
 ![vs-code](https://github.com/Data-Engineer-Camp/getting-started/blob/main/static/vs-code.png?raw=true)
+
+{{< button relref="/" >}}Next &raquo;{{< /button >}}

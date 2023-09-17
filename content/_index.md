@@ -21,7 +21,7 @@ The next few activities will take you through setting up.
 | Activity No. | Activity | 
 | - | - | 
 | 01 | [Install VS Code](./docs/1-install-vs-code) | 
-| 02 | [Install Anaconda distribution](./2-install-anaconda-distribution/) | 
-| 03 | [Install PostgreSQL](./3-install-postgresql/) | 
-| 04 | [Install git](./4-install-git/) | 
-| 05 | [Prepare your introduction presentation](./5-prepare-your-intro-presentation/) | 
+| 02 | [Install Anaconda distribution](./docs/2-install-anaconda-distribution) | 
+| 03 | [Install PostgreSQL](./docs/3-install-postgresql) | 
+| 04 | [Install git](./docs/4-install-git) | 
+| 05 | [Prepare your introduction presentation](./docs/5-intro-presentation) | 
