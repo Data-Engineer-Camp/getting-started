@@ -9,11 +9,6 @@ Welcome to Data Engineer Camp! We are thrilled to have you with us on this excit
 
 The next 16 weeks will be fast paced and rewarding. To ensure that you are able to hit the ground running on day 1, we have a couple of pre-requisites that you will need to set up before attending the first class. 
 
-We will be using the following systems to deliver this bootcamp: 
-- GitHub: used to store code related materials and content
-- Slack: used to communicate with other bootcamp participants and the teaching staff
-- Zoom: used for the live classrooms
-
 The next few tasks will take you through setting up and getting ready for day 1.
 
 ## Tasks
