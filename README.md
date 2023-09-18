@@ -6,6 +6,8 @@ Run locally:
 hugo server
 ```
 
+Live website: https://data-engineer-camp.github.io/getting-started/
+
 Resources:
 
 - https://themes.gohugo.io/themes/hugo-book/
