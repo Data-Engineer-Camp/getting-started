@@ -11,6 +11,7 @@ While you don’t need to be a Python expert to get started, you do need Python 
 - [Modules](https://realpython.com/python-modules-packages/)
 - [Classes](https://realpython.com/python-classes/)
 - [Type Hints](https://realpython.com/lessons/type-hinting/)
+- [Exception handling](https://realpython.com/python-exceptions/)
 
 
 # SQL 
