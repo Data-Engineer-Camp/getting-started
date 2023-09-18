@@ -14,14 +14,15 @@ We will be using the following systems to deliver this bootcamp:
 - Slack: used to communicate with other bootcamp participants and the teaching staff
 - Zoom: used for the live classrooms
 
-The next few activities will take you through setting up. 
+The next few tasks will take you through setting up and getting ready for day 1.
 
-## Activities
+## Tasks
 
-| Activity No. | Activity | 
+| Task No. | Task | 
 | - | - | 
 | 01 | [Install VS Code](./docs/1-install-vs-code) | 
 | 02 | [Install Anaconda distribution](./docs/2-install-anaconda-distribution) | 
 | 03 | [Install PostgreSQL](./docs/3-install-postgresql) | 
 | 04 | [Install git](./docs/4-install-git) | 
 | 05 | [Prepare your introduction presentation](./docs/5-intro-presentation) | 
+| 06 | [Learning resources](./docs/6-learning-resources) | 
