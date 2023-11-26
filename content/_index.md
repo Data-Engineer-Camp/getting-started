@@ -19,5 +19,6 @@ The next few tasks will take you through setting up and getting ready for day 1.
 | 02 | [Install Anaconda distribution](./docs/2-install-anaconda-distribution) | 
 | 03 | [Install PostgreSQL](./docs/3-install-postgresql) | 
 | 04 | [Install git](./docs/4-install-git) | 
-| 05 | [Prepare your introduction presentation](./docs/5-intro-presentation) | 
-| 06 | [Learning resources](./docs/6-learning-resources) | 
+| 05 | [Setup GitHub](./docs/5-setup-github) | 
+| 06 | [Prepare your introduction presentation](./docs/6-intro-presentation) | 
+| 07 | [Learning resources](./docs/7-learning-resources) | 

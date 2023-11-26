@@ -12,4 +12,4 @@ To install git, go to https://git-scm.com/downloads and select "Download" for yo
 
 Once the installation is complete, you can go into terminal (MacOS) or command prompt (Windows) and type `git --version` which should return `git version 2.36.1` or similar. 
 
-{{< button relref="/docs/3-install-postgresql" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/5-intro-presentation" >}}Next &raquo;{{< /button >}}
+{{< button relref="/docs/3-install-postgresql" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/5-setup-github" >}}Next &raquo;{{< /button >}}

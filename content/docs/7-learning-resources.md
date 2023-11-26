@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "6. Learning Resources"
+title: "7. Learning Resources"
 ---
 
 # Python
@@ -26,5 +26,5 @@ You should be familiar with basic Command Line Interface (CLI) commands. If not,
 
 - [Command Line Interface basics](https://www.w3schools.com/whatis/whatis_cli.asp)
 
-{{< button relref="/docs/5-intro-presentation" >}}&laquo; Previous{{< /button >}}
+{{< button relref="/docs/6-intro-presentation" >}}&laquo; Previous{{< /button >}}
 

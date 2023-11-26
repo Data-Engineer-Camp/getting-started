@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "5. Prepare introduction presentation"
+title: "6. Prepare introduction presentation"
 ---
 
 # Intro presentation 
@@ -21,4 +21,4 @@ We encourage you to include photos and keep it fun!
 Check out a sample intro presentation [here](https://docs.google.com/presentation/d/1KGSesJoyvl1FqJQTwp1BRd4xpTkL2aeIezWZFFAC-Q4/edit?usp=sharing).
 
 
-{{< button relref="/docs/4-install-git" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/6-learning-resources" >}}Next &raquo;{{< /button >}}
+{{< button relref="/docs/5-setup-github" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/7-learning-resources" >}}Next &raquo;{{< /button >}}
