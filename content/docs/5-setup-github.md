@@ -23,7 +23,7 @@ After creating a GitHub account, please provide your GitHub username to this [fo
 To get your GitHub username:
 
 1. In the top right corner of GitHub (after you have signed in), select "Your profile"
-2. In the address bar, you should see github.com/your_username_should_appear_here.
+2. In the address bar, you should see `github.com/your_username_should_appear_here`.
 3. Copy the username value and submit via the form.
 
 {{< button relref="/docs/4-install-git" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/6-intro-presentation" >}}Next &raquo;{{< /button >}}
