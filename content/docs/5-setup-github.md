@@ -26,4 +26,8 @@ To get your GitHub username:
 2. In the address bar, you should see `github.com/your_username_should_appear_here`.
 3. Copy the username value and submit via the form.
 
-{{< button relref="/docs/4-install-git" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/6-intro-presentation" >}}Next &raquo;{{< /button >}}
+We'll periodically check the github usernames and add grant new usernames access to the github repository. So please give up to 2 business days for this to take place. 
+
+You will receive an email from Github once you have been granted access. 
+
+{{< button relref="/docs/4-install-git" >}}&laquo; Previous{{< /button >}} {{< button relref="/docs/6-clone-github-repository" >}}Next &raquo;{{< /button >}}
