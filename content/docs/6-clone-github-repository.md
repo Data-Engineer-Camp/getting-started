@@ -42,7 +42,7 @@ This is the least preferred method, only do this if you are having issues with t
 With this method, clone the repository using the https method:
 
 ```sh
-$ git clone https://github.com/Data-Engineer-Camp/<yyyy><mm>-bootcamp.git
+$ git clone https://github.com/Data-Engineer-Camp/<yyyy>-<mm>-bootcamp.git
 Username: YOUR_USERNAME
 Password: YOUR_PERSONAL_ACCESS_TOKEN
 ```
