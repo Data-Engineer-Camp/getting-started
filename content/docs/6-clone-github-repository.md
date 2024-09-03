@@ -26,7 +26,7 @@ The idea is that you would upload a "public" key to Github and you keep a "priva
 With this method, clone the repository using the ssh method:
 
 ```sh
-$ git clone git@github.com:Data-Engineer-Camp/<yyyy><mm>-bootcamp.git
+$ git clone git@github.com:Data-Engineer-Camp/<yyyy>-<mm>-bootcamp.git
 ```
 
 ## GitHub Authentication Option 2: Personal access tokens
